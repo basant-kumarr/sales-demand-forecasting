@@ -1,5 +1,9 @@
 # Sales Demand Forecasting: ARIMA vs Prophet
 
+<p align="center">
+  <img src="docs/images/hero.webp" width="100%" alt="Sales Demand Forecasting: Auto ARIMA and Prophet in R, compared with rolling-window validation on RMSE, MAE and MAPE. Artwork from the portfolio: a logistics scene with warehouses, trucks and a tablet, a concept illustration.">
+</p>
+
 **Forecasting built around a planning decision: too much stock ties up capital, too little loses sales.**
 
 Time-series forecasting in R · Auto ARIMA · Prophet · rolling-window validation
