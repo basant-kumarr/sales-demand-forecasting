@@ -8,7 +8,7 @@
 
 Time-series forecasting in R · Auto ARIMA · Prophet · rolling-window validation
 
-[Portfolio](https://basant-kumar-portfoli.netlify.app/) · [GitHub profile](https://github.com/basant-kumarr)
+[Portfolio](https://basant-kumar.netlify.app/) · [GitHub profile](https://github.com/basant-kumarr)
 
 ---
 
@@ -84,4 +84,4 @@ These are the project's qualitative conclusions. The underlying error values, th
 
 ---
 
-**Basant Kumar** · MSc Business Analytics, Maynooth University · [Portfolio](https://basant-kumar-portfoli.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/basantsingh-/) · [GitHub](https://github.com/basant-kumarr)
+**Basant Kumar** · MSc Business Analytics, Maynooth University · [Portfolio](https://basant-kumar.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/basantsingh-/) · [GitHub](https://github.com/basant-kumarr)
